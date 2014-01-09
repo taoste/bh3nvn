@@ -1,0 +1,6 @@
+﻿markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://xwlogic.github.com
+author: xwlogic
+pygments: true
+paginate: 24

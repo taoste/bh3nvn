@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<section class="meta">
+<span class="time">
+  <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+</span>
+{% if page.categories.size != 0 %}
+ | 
+<span class="categories">
+  分类
+  {% for cat in page.categories %}
+  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+{% if page.tags.size != 0 %}
+ | 
+<span class="tags">
+  标签
+  {% for tag in page.tags %}
+  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+</section>
+<section class="post">
+{{ content }}
+</section>
+<section align="right">
+<br/>
+
+{% if page.previous %}
+    <a class="next" href="{{ page.previous.url }}">上一篇</a>
+  {% else %}
+    <span class="next disabled" >上一篇</span>
+  {% endif %}
+&nbsp;&nbsp;&nbsp;
+{% if page.next %}
+    <a class="next" href="{{ page.next.url }}">下一篇</a>
+  {% else %}
+    <span class="next disabled" >下一篇</span>
+  {% endif %}
+</section>
+{% include comments.md %}
