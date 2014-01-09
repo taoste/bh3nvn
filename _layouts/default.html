@@ -11,7 +11,7 @@
     <link href='/media/webfonts/ss-social.css' rel='stylesheet'>
     <link href='/media/webfonts/ss-standard.css' rel='stylesheet'>
     <link href="/media/css/screen.css" rel="stylesheet">
-    <a href="https://github.com/xwlogic"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+    <a href="https://github.com/{{ site.github }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/media/js/outliner.js"></script>
   </head>
@@ -65,9 +65,11 @@
    
     <footer>
     	<p><small>
-    		      Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> @ <a href="http://github.com/xwlogic">GitHub</a>
+    		      Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> @ <a href="http://github.com/{{ site.github }}">GitHub</a>
              | <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/cn/" target="_blank" title="许可协议">©</a> 2008 - {{site.time | date:"%Y"}} <a href="/about/">{{ site.author }}</a>
-             | <script src="http://s22.cnzz.com/z_stat.php?id=1000238058&web_id=1000238058" language="JavaScript"></script>
+             {% if site.cnzz %}
+             | <script src="http://s22.cnzz.com/z_stat.php?id={{ site.cnzz }}&web_id={{ site.cnzz }}" language="JavaScript"></script>
+             {% endif %}
              | <span class="label label-info" id="timeSpan"></span>
        </small></p>
     </footer>
