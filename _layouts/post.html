@@ -29,7 +29,7 @@ layout: default
 </section>
 <section align="right">
 <br/>
-
+<span>
 {% if page.previous %}
     <a class="next" href="{{ page.previous.url }}" {% endunless %}>上一篇</a>
   {% else %}
@@ -41,5 +41,6 @@ layout: default
   {% else %}
     <span class="next disabled" {% endunless %}>下一篇</span>
   {% endif %}
+</span>
 </section>
 {% include comments.md %}
