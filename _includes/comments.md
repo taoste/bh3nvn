@@ -1,7 +1,8 @@
+{% if site.duoshuo %}
 <!-- Duoshuo Comment BEGIN -->
 	<div class="ds-thread"></div>
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"xwlogic"};
+        <script type="text/javascript">
+        var duoshuoQuery = {short_name:"{{ site.duoshuo }}"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -12,4 +13,5 @@ var duoshuoQuery = {short_name:"xwlogic"};
 	})();
 	</script>
 <!-- Duoshuo Comment END -->
+{% endif %}
 
