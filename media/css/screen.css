@@ -148,6 +148,7 @@ a {
 }
 a:visited {
     color: #B22222;
+    text-decoration:underline;
 }
 a.ss-icon {
 	font-size: 20px;
@@ -156,6 +157,7 @@ a.ss-icon {
 }
 a:hover {
     color: #EE0000;
+    text-decoration:underline;
 }
 em {
     font-style: italic;
@@ -220,6 +222,7 @@ background: #ff0000;
 .paginator a:hover{
 color: white;
 background: #83BF73;
+
 }
 
 
