@@ -31,15 +31,15 @@ layout: default
 <br/>
 
 {% if page.previous %}
-    <a class="next" href="{{ page.previous.url }}">上一篇</a>
+    <a class="next" href="{{ page.previous.url }}" {% endunless %}>上一篇</a>
   {% else %}
-    <span class="next disabled" >上一篇</span>
+    <span class="next disabled" {% endunless %}>上一篇</span>
   {% endif %}
 &nbsp;&nbsp;&nbsp;
 {% if page.next %}
-    <a class="next" href="{{ page.next.url }}">下一篇</a>
+    <a class="next" href="{{ page.next.url }}" {% endunless %}>下一篇</a>
   {% else %}
-    <span class="next disabled" >下一篇</span>
+    <span class="next disabled" {% endunless %}>下一篇</span>
   {% endif %}
 </section>
 {% include comments.md %}
