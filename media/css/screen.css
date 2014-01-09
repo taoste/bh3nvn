@@ -145,6 +145,7 @@ hr {
 }
 a {
     color: #EE0000;
+    text-decoration:none;
 }
 a:visited {
     color: #B22222;
