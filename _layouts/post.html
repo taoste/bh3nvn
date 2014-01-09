@@ -30,17 +30,11 @@ layout: default
 <section align="right">
 <br/>
 <span>
-{% if page.previous %}
-    <a class="next" href="{{ page.previous.url }}" {% endunless %} >上一篇</a>
-  {% else %}
-    <span class="next disabled" {% endunless %} >上一篇</span>
-  {% endif %}
-&nbsp;&nbsp;&nbsp;
-{% if page.next %}
-    <a class="next" href="{{ page.next.url }}" {% endunless %} >下一篇</a>
-  {% else %}
-    <span class="next disabled" {% endunless %} >下一篇</span>
-  {% endif %}
+
+	<a {% if page.previous %} href="{{ page.previous.url }}" class="next"{% endif %} {% unless page.previous %} class="next disabled" {% endunless %} >上一篇</a>
+	&nbsp;&nbsp;&nbsp;
+	<a {% if page.next %} href="{{ page.next.url }}" class="next"{% endif %} {% unless page.next %} class="next disabled" {% endunless %} >下一篇</a>
+
 </span>
 </section>
 {% include comments.md %}
