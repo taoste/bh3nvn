@@ -17,7 +17,7 @@
 
 ###联系方式###
 
-邮箱：[{{ site.email }}](mailto:{{ site.email }})
+邮箱：[xwlogic@gmail.com](mailto:xwlogic@gmail.com)
 
 
 ------------------------------------
