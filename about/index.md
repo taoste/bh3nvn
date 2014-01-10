@@ -4,12 +4,14 @@ layout: page
 comments: yes
 ---
 
-我，爱好广泛，2014年开始，就把其他地方的大部分网络日志（2007~2013）迁移到[GitHub](https://github.com/xwlogic "GitHub")上了，好处是无需自己搭建服务器，可以绑定域名，稳定可靠。另外，我的站点也是开源的~~
+我，兴趣广泛，目前已经把其他地方的大部分网络日志（2007~2013）迁移到[GitHub](https://github.com/xwlogic "GitHub")上了，好处是无需自己搭建服务器，可以绑定域名，稳定可靠（除非奇葩12306捣乱）。另外，我的站点也是开源的~~如果用我模版，请按照你的信息修改_config.yml文件。
 
 -------
 
-###**联系方式**###
+###联系方式###
 
-个人邮箱:[xwlogic@gmail.com](mailto:xwlogic@gmail.com)
+邮箱：[{{ site.email }}](mailto:{{ site.email }})
+
+GitHub : [http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
 
 ----
