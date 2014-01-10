@@ -255,3 +255,6 @@ footer a:hover {
     text-decoration: none;
 }
 
+.pageNav{font-weight:bold;font-size:17px;}
+.pageNavInvalid{font-weight:bold;font-size:17px;color:#D0D0D0;}
+
