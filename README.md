@@ -1,4 +1,4 @@
-此仓库为[xwLogic](http://xwlogic.github.io/")的个人站点
+此仓库为[xwLogic](http://xwlogic.github.io)的个人站点
 ------------------------------------
 
 本站使用Jekyll搭建，可以将Markdown写的文章通过模板生成最终的Html静态文件。 
