@@ -53,7 +53,7 @@
           <a href="/tags" class="ss-icon" title="标签" >Tags</a>
           <a href="/links" class="ss-icon" title="链接" >Link</a>
           <a href="/guestbook" class="ss-icon" title="留言" >Talk</a>
-          <a href="/about" class="ss-icon" title="关于" >About</a>
+          <a href="/about" class="ss-icon" title="关于" >User</a>
         </div>
         <h1>{{ page.title }}</h1>
         </header>
