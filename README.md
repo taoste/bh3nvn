@@ -1,7 +1,7 @@
 此仓库为[xwLogic](http://xwlogic.github.io)的个人站点
 ------------------------------------
 
-本站使用[Jekyll](http://jekyllrb.com/)搭建，可以将[Markdown](http://zh.wikipedia.org/wiki/Markdown)写的文章通过模板生成最终的Html静态文件。 
+本站使用[Jekyll](http://jekyllrb.com/)搭建，可以将[Markdown](http://zh.wikipedia.org/wiki/Markdown)写的文章通过模板生成最终的HTML静态文件。 
 
 站点的评论留言系统使用了[Disqus](http://disqus.com/)&[多说](http://duoshuo.com/)。
 
