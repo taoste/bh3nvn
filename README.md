@@ -6,7 +6,7 @@
 站点的评论系统使用了[Disqus](http://disqus.com/)&[多说](http://duoshuo.com/)。
 
 
-本博客模板已经全部通用化，如果用我模版，请按照你的信息修改[_config.yml](https://github.com/xwlogic/xwlogic.github.com/blob/master/_config.yml)文件。
+本博客模板已经全部通用化，如果使用我的模版，请按照你的信息修改[_config.yml](https://github.com/xwlogic/xwlogic.github.com/blob/master/_config.yml)文件。
 
 本站点模版参考[Yonsm.NET](http://github.com/Yonsm/NET) 的博客和[Luke's Homepage](https://github.com/kejinlu/kejinlu.github.com)。
 
