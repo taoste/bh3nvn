@@ -1,8 +1,9 @@
 {% if site.duoshuo %}
 <!-- Duoshuo Comment BEGIN -->
+<!-- Duoshuo Comment BEGIN -->
 	<div class="ds-thread"></div>
-        <script type="text/javascript">
-        var duoshuoQuery = {short_name:"{{ site.duoshuo }}"};
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"{{ site.duoshuo }}"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -12,6 +13,7 @@
 		|| document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
 	</script>
+<!-- Duoshuo Comment END -->
 <!-- Duoshuo Comment END -->
 {% endif %}
 
