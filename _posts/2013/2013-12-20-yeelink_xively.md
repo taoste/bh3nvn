@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Yeelink/xively环境节点搭建@RPi
+title: yeelink/xively环境节点搭建@RPi
 date: 2013-12-20 08:43:05
 categories:
 - 日志
 tags:
-- Yeelink
+- yeelink
 - xively
 - Raspberry Pi
 ---
