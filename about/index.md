@@ -4,8 +4,6 @@ layout: page
 comments: yes
 ---
 
-我，兴趣广泛，目前已经把我的网络日志（2007~2013）迁移到[GitHub](https://github.com/xwlogic "GitHub")上了，好处是无需自己搭建服务器，可以绑定域名，稳定可靠（除非奇葩12306捣乱）。  
-
 本站使用[Jekyll](http://jekyllrb.com/)搭建，可以将[Markdown](http://zh.wikipedia.org/wiki/Markdown)写的文章通过模板生成最终的HTML静态文件。 
   
 站点的评论留言系统使用了[多说](http://duoshuo.com/)/[Disqus](http://disqus.com/)。
