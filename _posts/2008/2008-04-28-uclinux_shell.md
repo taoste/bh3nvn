@@ -74,3 +74,4 @@ Busybox中集成进去的Shell有以下几个。
 
 另外还可以增加Msh Shell的其它功能，比如ls命令的以彩色显示不同属性文件的功能等，这里不再详述。
 
+![](http://i1328.photobucket.com/albums/w532/xwlogic/github%20pages/uclinux_shell2_zps4c3c8665.jpg)
