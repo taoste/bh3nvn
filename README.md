@@ -5,10 +5,9 @@
 
 站点的评论留言系统使用了[多说](http://duoshuo.com/)/[Disqus](http://disqus.com/)。
 
+站点模板已经全部通用化，如果使用我的模版，请按照你的信息修改[_config.yml](https://github.com/xwlogic/xwlogic.github.com/blob/master/_config.yml)文件。
 
-本博客模板已经全部通用化，如果使用我的模版，请按照你的信息修改[_config.yml](https://github.com/xwlogic/xwlogic.github.com/blob/master/_config.yml)文件。
-
-本站点模版参考[Yonsm.NET](http://github.com/Yonsm/NET)和[Luke's Homepage](https://github.com/kejinlu/kejinlu.github.com)。
+站点模版参考[Yonsm.NET](http://github.com/Yonsm/NET)和[Luke's Homepage](https://github.com/kejinlu/kejinlu.github.com)。
 
 
 以上，感谢~
