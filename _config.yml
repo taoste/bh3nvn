@@ -1,7 +1,6 @@
 ﻿markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://xwlogic.github.io
-http:xwlogic.github.io
 name: xwLogic的个人站点
 author: xwlogic
 email: xwlogic@gmail.com
