@@ -5,13 +5,13 @@ comments: yes
 ---
 
 ###**Google站内搜索**###
-<form method=get action="http://www.google.com/search"> 
-<input type=text name=q> 
-<input type=submit name=btnG value="Google 搜索"> 
-<input type=hidden name=ie value=utf-8> 
-<input type=hidden name=oe value=utf-8> 
-<input type=hidden name=domains value="{{ site.http }}"> 
-<input type=hidden name=sitesearch value="{{ site.http }}"> 
+<form method=get action="http://www.google.com/search">
+<input type=text name=q>
+<input type=submit name=btnG value="Google 搜索">
+<input type=hidden name=ie value=utf-8>
+<input type=hidden name=oe value=utf-8>
+<input type=hidden name=domains value="{{ site.http }}">
+<input type=hidden name=sitesearch value="{{ site.http }}">
 </form> 
 
 --------------------
