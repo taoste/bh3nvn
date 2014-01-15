@@ -12,8 +12,8 @@ comments: yes
 <input type=hidden name=ie value=GB2312> 
 <input type=hidden name=oe value=GB2312> 
 <input type=hidden name=hl value=zh-CN> 
-<input type=hidden name=domains value="www.sw996.com"> 
-<input type=hidden name=sitesearch value="www.sw996.com"> 
+<input type=hidden name=domains value="xwlogic.github.io"> 
+<input type=hidden name=sitesearch value="xwlogic.github.io"> 
 </form> 
 -----------------------------------------
 
