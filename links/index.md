@@ -5,7 +5,6 @@ comments: yes
 ---
 
 ###**Google站内搜索**###
-
 <form method=get action="http://www.google.com/search"> 
 <input type=text name=q> 
 <input type=submit name=btnG value="Google 搜索"> 
