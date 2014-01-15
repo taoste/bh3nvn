@@ -8,8 +8,8 @@ comments: yes
 <form method=get action="http://www.google.com/search"> 
 <input type=text name=q> 
 <input type=submit name=btnG value="Google 搜索"> 
-<input type=hidden name=ie value=GB2312> 
-<input type=hidden name=oe value=GB2312> 
+<input type=hidden name=ie value=UTF-8> 
+<input type=hidden name=oe value=UTF-8> 
 <input type=hidden name=hl value=zh-CN> 
 <input type=hidden name=domains value="{{ site.http }}"> 
 <input type=hidden name=sitesearch value="{{ site.http }}"> 
