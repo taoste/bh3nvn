@@ -1,7 +1,7 @@
 ---
 title: 关于
 layout: page
-comments: yes
+comments: no
 ---
 
 本站使用[Jekyll](http://jekyllrb.com/)搭建于[GitHub](https://github.com/)，可以将[Markdown](http://zh.wikipedia.org/wiki/Markdown)写的文章通过模板生成最终的HTML静态文件。 
@@ -25,4 +25,4 @@ GitHub : [https://github.com/{{ site.github }}](http://github.com/{{ site.github
 
 ----
 
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ site.weibo }}/f78fbcd2/1.png)](http://weibo.com/u/{{ site.weibo }})
+[![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ site.weibo }}/0a9cb46b/2.png)](http://weibo.com/u/{{ site.weibo }})
