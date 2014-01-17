@@ -228,7 +228,7 @@ background: #83BF73;
 footer{
 text-align:center;
 display:block;
-border-top: 1px dashed #CCC;
+border-top: 1px solid #CCC;
 }
 
 footer small {
