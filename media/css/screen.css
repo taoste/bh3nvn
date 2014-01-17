@@ -137,7 +137,10 @@ p code {
     font-size: 14px;
     border: 1px solid #edebea;
 }
+*{padding:0;margin: 0;border:none;outline:none;}
+
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
+
 a {
     color: #EE0000;
     text-decoration:none;
