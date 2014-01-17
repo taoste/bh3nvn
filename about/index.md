@@ -23,8 +23,5 @@ comments: no
 
 GitHub : [https://github.com/{{ site.github }}](http://github.com/{{ site.github }})
 
-----
-
-<weibo>
 [![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ site.weibo }}/0a9cb46b/2.png)](http://weibo.com/u/{{ site.weibo }})
-<weibo>
+
