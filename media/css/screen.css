@@ -137,12 +137,7 @@ p code {
     font-size: 14px;
     border: 1px solid #edebea;
 }
-hr {
-    border: 0;
-    background-color: #edebea;
-    height: 2px;
-    margin: 0 0 22px 0;
-}
+hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 a {
     color: #EE0000;
     text-decoration:none;
