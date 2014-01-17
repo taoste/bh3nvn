@@ -22,7 +22,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
-figure, figcaption, footer, hgroup,
+figure, figcaption, header, footer, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -33,10 +33,9 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
+article, aside, details, header, figcaption, figure,
 footer, hgroup, menu, nav, section {
 	display: block;
 }
@@ -230,7 +229,7 @@ background: #83BF73;
 footer{
 text-align:center;
 display:block;
-border-top: 1px solid #CCC;
+border-top: 1px dashed #CCC;
 }
 
 footer small {
