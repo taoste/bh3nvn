@@ -22,7 +22,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+figure, figcaption, header, footer, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -33,9 +33,10 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article, aside, details, header, figcaption, figure,
+footer, hgroup, menu, nav, section {
 	display: block;
 }
 body {
@@ -80,10 +81,13 @@ body>div {
 }
 h1 {
     font-size: 28px;
-    line-height: 28px;
-    margin: 0 0 28px 0;
+    line-height: 8px;
+    margin: 0 0 1px 0;
     color: #f50;
-
+	/*background-color: #000;
+	color: #fff;
+	display: inline-block;
+	padding: 12px;*/
 }
 h2 {
     font-size: 26px;
@@ -134,17 +138,16 @@ p code {
     font-size: 14px;
     border: 1px solid #edebea;
 }
-hr {
-    border: 0;
-    background-color: #edebea;
-    height: 2px;
-    margin: 0 0 22px 0;
-}
+
+hr{padding:0;margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;border:none;outline:none;}
+
 a {
     color: #EE0000;
+    text-decoration:none;
 }
 a:visited {
     color: #B22222;
+    text-decoration:none;
 }
 a.ss-icon {
 	font-size: 20px;
@@ -153,6 +156,8 @@ a.ss-icon {
 }
 a:hover {
     color: #EE0000;
+    text-decoration:underline;
+
 }
 em {
     font-style: italic;
@@ -217,13 +222,13 @@ background: #ff0000;
 .paginator a:hover{
 color: white;
 background: #83BF73;
-}
 
+}
 
 footer{
 text-align:center;
 display:block;
-border-top: 1px dashed #CCC;
+border-top: 1px solid #CCC;
 }
 
 footer small {
@@ -234,7 +239,6 @@ color: #999;
 footer a {
 margin: 1px;
 border: 1px solid rgba(1,1,1,0);
-border-bottom: 1px dashed #BBB;
 color: #B9221F;
 text-decoration: none;
 }
@@ -247,6 +251,23 @@ footer a:hover {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(110,110,110,1.0)), to(rgba(100,100,100,1.0)));
     -webkit-box-shadow: rgba(0,0,0,1.0) 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;
     text-decoration: none;
+}
+
+.pageNav{font-weight:bold;font-size:17px;}
+.pageNavInvalid{font-weight:bold;font-size:17px;color:#D0D0D0;}
+.label {
+font-size:11.25px;
+font-weight:700;
+color:#fff;
+text-transform:uppercase;
+background-color:#999;
+-webkit-border-radius:3px;
+-moz-border-radius:3px;
+border-radius:3px;
+padding:1px 3px 2px;
+}
+.label-info {
+background-color:#3a87ad;
 }
 
 .content img{max-width:640px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
