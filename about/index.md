@@ -10,8 +10,6 @@ comments: no
   
 站点模板已经全部通用化，如果使用我的模版，请按照你的信息修改[_config.yml](https://github.com/xwlogic/xwlogic.github.com/blob/master/_config.yml)文件。  
 
-站点模版参考[Yonsm.NET](http://github.com/Yonsm/NET)和[Luke's Homepage](https://github.com/kejinlu/kejinlu.github.com)。
-
 
 以上，感谢~
 
