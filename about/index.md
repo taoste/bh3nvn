@@ -15,6 +15,16 @@ comments: no
 
 -------
 
+### **环境监测** ###
+
+以下是我的环境监测节点，[Raspberry Pi](http://www.raspberrypi.org/)做主机：
+
+[PR311环境节点@yeelink](http://www.yeelink.net/devices/6692#)  
+
+[PR311环境节点@xively](https://xively.com/feeds/291868862)
+
+---
+
 ###**联系方式**###
 
 邮箱：[{{ site.email }}](mailto:{{ site.email }})
