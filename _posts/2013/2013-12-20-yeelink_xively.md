@@ -81,8 +81,6 @@ uart测试：
 
 输入以下内容
 
-{% highlight cpp linenos %}
-
     import serial
     ser=serial.Serial('/dev/ttyAMA0',9600,timeout=20)
     ser.open()
@@ -123,8 +121,6 @@ uart测试：
           output=open('/mnt/tmp/datarh.txt','w')
           output.write(res)
           output.close
-
-{% endhighlight %}
 
 s、c、h、k用来简单校验通信数据。txt文件是按照yeelink的api接口要求保存json格式的数据。
 
