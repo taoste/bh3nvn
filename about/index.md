@@ -23,8 +23,6 @@ comments: no
 
 [PR311环境节点@xively](https://xively.com/feeds/291868862)
 
-<a href="https://xively.com/feeds/291868862"><img src="https://api.xively.com/v2/feeds/291868862/datastreams/Sensor1.png?w=1000&h=300&c=%23f15a24&duration=2days&title=办公室PM2.5(ug/m³)&b=true&g=true&scale=auto&timezone=8"/></a>
-
 ---
 
 ###**联系方式**###
