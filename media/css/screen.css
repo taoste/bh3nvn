@@ -159,7 +159,7 @@ a.ss-icon {
 }
 a:hover {
     color: #333333;
-    text-decoration:underline;
+    text-decoration:none;
 }
 em {
     font-style: italic;
