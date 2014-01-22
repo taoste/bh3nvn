@@ -87,10 +87,10 @@ h1 {
     font-size: 28px;
     line-height: 28px;
     margin: 0 0 28px 0;
-	background-color: #FFF;
-	color: #F50;
-	display: inline-block;
-	padding: 12px;
+    background-color: #FFF;
+    color: #dd0000;
+    display: inline-block;
+    padding: 12px;
 }
 h2 {
     font-size: 26px;
@@ -155,7 +155,7 @@ a {
 a.ss-icon {
 	font-size: 18px;
 	padding: 0 0.1em;
-	color: #ccc;
+	color: #f50;
 }
 a:hover {
     color: #333333;
@@ -271,7 +271,7 @@ border-radius:3px;
 padding:1px 3px 2px;
 }
 .label-info {
-background-color:#f15a24;
+background-color:#f50;
 }
 
 .content img{max-width:640px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
