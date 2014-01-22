@@ -148,7 +148,7 @@ hr {
     margin: 0 0 22px 0;
 }
 a {
-    color: #5D8888;
+    color: #DD0000;
     text-decoration:none;
 }
 
@@ -158,7 +158,7 @@ a.ss-icon {
 	color: #ccc;
 }
 a:hover {
-    color: #EE0000;
+    color: #5D8888;
     text-decoration:underline;
 }
 em {
