@@ -88,7 +88,7 @@ h1 {
     line-height: 28px;
     margin: 0 0 28px 0;
     background-color: #FFF;
-    color: #dd0000;
+    color: #000;
     display: inline-block;
     padding: 12px;
 }
@@ -155,7 +155,7 @@ a {
 a.ss-icon {
 	font-size: 18px;
 	padding: 0 0.1em;
-	color: #f50;
+	color: #6c6c6c;
 }
 a:hover {
     color: #333333;
