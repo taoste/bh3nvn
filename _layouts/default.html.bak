@@ -68,7 +68,6 @@
          {% if site.cnzz %}
              | <script src="http://s22.cnzz.com/z_stat.php?id={{ site.cnzz }}&web_id={{ site.cnzz }}" language="JavaScript"></script>
          {% endif %}
-
              <br/>
               <span class="label label-info" id="timeSpan"></span>
        </small></p>
