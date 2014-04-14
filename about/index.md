@@ -29,6 +29,6 @@ comments: no
 
 邮箱：[{{ site.email }}](mailto:{{ site.email }})
 
-GitHub : [https://github.com/{{ site.github }}](http://github.com/{{ site.github }})
+GitHub : [https://github.com/xwlogic](http://github.com/xwlogic)
 
 
