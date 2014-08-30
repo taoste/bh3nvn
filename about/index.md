@@ -13,8 +13,6 @@ comments: no
 
 以上，感谢~
 
----
-
 I learn what I need to create what I want.
 
 ---
