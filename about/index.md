@@ -15,6 +15,10 @@ comments: no
 
 ---
 
+I learn what I need to create what I want.
+
+---
+
 ###**联系方式**###
 
 邮箱：[{{ site.email }}](mailto:{{ site.email }})
