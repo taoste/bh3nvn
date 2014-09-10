@@ -44,7 +44,3 @@ tags:
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/IMG_20140830_153412445_zps9e409130.jpg)
 
 
-如果发现时间不对，可能是ntp服务没有开机运行，执行指令
-    
-    chkconfig ntp on
-就OK了（20140910）
