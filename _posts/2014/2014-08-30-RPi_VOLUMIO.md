@@ -43,9 +43,4 @@ tags:
 
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/IMG_20140830_153412445_zps9e409130.jpg)
 
-开机默认consume mode，解决方法：
-在 /etc/rc.local 文件exit 0上边一行加上如下指令：
 
-    (sleep 5;
-    mpc consume off
-    )&
