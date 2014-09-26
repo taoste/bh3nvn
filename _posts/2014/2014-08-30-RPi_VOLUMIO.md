@@ -32,6 +32,9 @@ tags:
     sudo update-rc.d lcd defaults
 
 5、显示IP的代码部分，先判断wlan0再判断eth0，方便使用，显示中IP前边的字母E代表eth0，W代表wlan0。
+禁用掉ipv6，在/boot/cmdline中添加：
+
+    ipv6.disable=1
 
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/IMG_20140830_151856720_zps031737da.jpg)
 
