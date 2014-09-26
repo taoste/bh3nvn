@@ -35,6 +35,10 @@ tags:
 禁用掉ipv6，在/boot/cmdline中添加：
 
     ipv6.disable=1
+    
+设置时区：
+
+    dpkg-reconfigure tzdata
 
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/IMG_20140830_151856720_zps031737da.jpg)
 
