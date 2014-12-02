@@ -5,8 +5,7 @@ date: 2013-12-20 08:43:05
 categories:
 - 日志
 tags:
-- yeelink
-- xively
+- 物联网
 - Raspberry Pi
 ---
 
