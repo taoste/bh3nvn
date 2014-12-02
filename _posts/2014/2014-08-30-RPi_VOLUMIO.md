@@ -6,7 +6,6 @@ categories:
 - 日志
 tags:
 - Raspberry Pi
-- PCM1502A
 - VOLUMIO
 ---
 
