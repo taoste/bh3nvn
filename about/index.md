@@ -5,7 +5,8 @@ comments: no
 ---
 
 80后，业余无线电爱好者，热衷DIY~  
-I learn what I need to create what I want.
+*I learn what I need to create what I want.*
+
 ---
 
 ###**联系方式**###
