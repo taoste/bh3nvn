@@ -17,7 +17,7 @@ I learn what I need to create what I want.
 
 ---
 
-###**联系方式**###
+###**联系我**###
 
 E-Mail:  
 [{{ site.email1 }}](mailto:{{ site.email1 }})  
