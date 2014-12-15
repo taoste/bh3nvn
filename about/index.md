@@ -1,12 +1,10 @@
 ---
-title: 关于
+title: I learn what I need to create what I want.
 layout: page
 comments: no
 ---
 
-80后，业余无线电爱好者，从事电子行业，热衷DIY~
-
-I learn what I need to create what I want.
+80后，业余无线电爱好者，热衷DIY~  
 
 ---
 
