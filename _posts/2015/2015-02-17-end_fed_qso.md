@@ -14,7 +14,7 @@ tags:
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg1_zps2c57fc3d.jpg)
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg2_zps946519d0.jpg)
 
-16：45接上FT817，马上在14275马上通到哈尔滨BG2CQO，收59发58，对方八木100瓦，IC756proii。
+16：45接上FT817，马上在14275通到哈尔滨BG2CQO，收59发58，对方八木100瓦，IC756proii。
 
 测试ok后跟老爸帖春联，蹬梯子上高，酒醒了……
 
