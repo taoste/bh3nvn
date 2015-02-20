@@ -9,8 +9,9 @@ tags:
 - 天线
 ---
 
-过年了，大年二十九，下午没事，趁着酒劲儿，架起了半波端馈天线，阵子长度大约十米，两根五米地网。匹配盒是之前测试好的，装好后，调试很容易，一分钟搞定。
-     
+过年了，回乡下老家，大年二十九，下午没事，趁着酒劲儿，架起了半波端馈天线，阵子长度大约十米，两根五米地网。匹配盒是之前测试好的，装好后，调试很容易，一分钟搞定。
+  
+![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg1_zps8d3bd902.jpg)
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg1_zps2c57fc3d.jpg)
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg2_zps946519d0.jpg)
 
