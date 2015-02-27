@@ -4,9 +4,9 @@ layout: page
 comments: no
 ---
 
-80后，业余无线电爱好者，热衷DIY~  
-*I learn what I need to create what I want.*
-收到卡片我会第一时间回复，谢谢！
+80后，HAM，DIY~  
+*I learn what I need to create what I want.*        
+收到卡片我会尽快回复，谢谢！
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/1%20-%20_zpsq829al5d.jpg)
 ---
 
