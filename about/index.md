@@ -6,8 +6,9 @@ comments: no
 
 80后，HAM，DIY~  
 *I learn what I need to create what I want.*        
-收到卡片我会尽快回复，谢谢！
-![](http://i1328.photobucket.com/albums/w532/xwlogic/1%20-%20_zpsq829al5d.jpg)
+
+![](http://i1328.photobucket.com/albums/w532/xwlogic/1%20-%20_zpsq829al5d.jpg)   
+收到卡片我会尽快回复，谢谢！    
 ---
 
 ###**联系方式**###
