@@ -8,7 +8,7 @@ comments: no
 *I learn what I need to create what I want.*        
 
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/BH3NVN-b%20-%20_zpskuc1weha.jpg)   
-收到卡片我会尽快回复，谢谢！   
+收到卡片我肯定会尽快回复，如您一月内没收到回卡，请E-mail我，谢谢！   
 
 ---
 
