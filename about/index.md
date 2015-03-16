@@ -10,6 +10,11 @@ comments: no
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/BH3NVN-b%20-%20_zpskuc1weha.jpg)   
 收到卡片我肯定会尽快回复，如您一月内没收到回卡，请E-Mail我，谢谢！   
 
+
+<center>
+<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
+</center>
+
 ---
 
 ###**联系方式**###
