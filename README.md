@@ -1,4 +1,4 @@
-此仓库为[xwLogic](http://xwlogic.github.io)的个人站点
+此仓库为[BH3NVN](http://xwlogic.github.io)的个人站点
 ------------------------------------
 
 本站使用[Jekyll](http://jekyllrb.com/)搭建，可以将[Markdown](http://zh.wikipedia.org/wiki/Markdown)写的文章通过模板生成最终的HTML静态文件。 
@@ -16,7 +16,7 @@
 
 ###联系方式###
 
-邮箱：[xwlogic@gmail.com](mailto:xwlogic@gmail.com)
+邮箱：[bh3nvn36@gmail.com](mailto:bh3nvn36@gmail.com)
 
 
 ------------------------------------
