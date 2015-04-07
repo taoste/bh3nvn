@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-80后，HAM（来卡必回），DIY~  
+80后，HAM，DIY~  
 *I learn what I need to create what I want.*        
 <center>
 <iframe align="top" frameborder="0" height="600" scrolling="yes" src="http://logbook.qrz.com/lbstat/BH3NVN/" width="720"></iframe>
