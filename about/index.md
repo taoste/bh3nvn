@@ -9,6 +9,10 @@ comments: no
 <center>
 <iframe align="top" frameborder="0" height="600" scrolling="yes" src="http://logbook.qrz.com/lbstat/BH3NVN/" width="720"></iframe>
 </center>
+
+<center>
+<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101pic.php"></a>
+</center>
 ---
 
 ###**联系方式**###
