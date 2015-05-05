@@ -12,7 +12,7 @@ comments: no
 
 ###**联系方式**###
 Callsign info:    
-[https://http://www.qrz.com/db/BH3NVN](http://www.qrz.com/db/BH3NVN)  
+[BH3NVN](http://www.qrz.com/db/BH3NVN)  
 E-Mail:  
 [{{ site.email2 }}](mailto:{{ site.email2 }})  
 企鹅:    
