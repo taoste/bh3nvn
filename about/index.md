@@ -3,7 +3,7 @@ title: 关于
 layout: page
 comments: no
 ---
-##*I learn what I need to create what I want.*##
+###*I learn what I need to create what I want*###
 <p>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhfper.php"></a>
 </p>
