@@ -5,13 +5,12 @@ comments: no
 ---
 
 *I learn what I need to create what I want.*        
-
 <center>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhfper.php"></a>
 </center>
 ---
 
-###**联系方式**###    
+###**联系方式**###
 Callsign info:    
 [https://http://www.qrz.com/db/BH3NVN](http://www.qrz.com/db/BH3NVN)  
 E-Mail:  
