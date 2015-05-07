@@ -5,7 +5,7 @@ comments: no
 ---
 ##***I learn what I need to create what I want***
 <center>
-<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhfper.php"></a>
+<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 </center>
 ---
 ###**联系方式**###
