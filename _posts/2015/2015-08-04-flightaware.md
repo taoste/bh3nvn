@@ -10,7 +10,9 @@ tags:
 ---
 
 闲置的树莓派1代+闲置的RTL-SDR组成了一个PiAware，获得FlightAware的企业账号，也申请了FlightFeeder。。。 
-网址：![http://zh.flightaware.com/](http://zh.flightaware.com/)
+[flightaware.com][1]
+
+  [1]:(http://flightaware.com/)
 
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/IMG_20150804_140625987_HDR_zpsc3o0gbyo.jpg)    
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/1_zpsvoqbm0j9.jpg)    
