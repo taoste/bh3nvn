@@ -16,7 +16,7 @@ tags:
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/1_zpsvoqbm0j9.jpg)    
 ![](http://i1328.photobucket.com/albums/w532/xwlogic/flightfeeder-v5-500px_zps9kffdhsb.jpg)    
 
-另外，猜出了官方PiAware的ssh登录密码，添加了WiFi网卡，省了一条网线。
+另外，以用户名pi登录ssh登录密码是flightaware，添加了WiFi网卡，省了一条网线。
 
     sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
     
@@ -31,4 +31,6 @@ tags:
             auth_alg=OPEN
     }
   
-  
+8月7日更新：
+
+可以在PiAware的系统上，按照Plane Finder的教程，安装其客户端，实现一个RPi同时Feed，注意要使用RPi2代，一代版本经测试，跑不起来。
