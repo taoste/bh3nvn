@@ -33,4 +33,4 @@ tags:
   
 8月7日更新：
 
-可以在PiAware的系统上，按照Plane Finder的教程，安装其客户端，实现一个RPi同时Feed，注意要使用RPi2代，一代版本经测试，跑不起来。
+可以在PiAware的系统上，按照Plane Finder的教程，安装其客户端，实现一个RPi同时Feed FW和PF，注意要使用RPi2代，一代版本经测试，跑不起来。
