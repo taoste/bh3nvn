@@ -34,3 +34,9 @@ tags:
 8月7日更新：
 
 可以在PiAware的系统上，按照Plane Finder的教程，安装其客户端，实现一个RPi同时Feed FW和PF，注意要使用RPi2代，一代版本经测试，跑不起来。
+
+![](http://i1328.photobucket.com/albums/w532/xwlogic/_zps8xtk6gsm.jpg)    
+
+Stuff    
+![](http://i1328.photobucket.com/albums/w532/xwlogic/IMG_20150807_135645986_HDR_zpsolcy9ixv.jpg)
+
