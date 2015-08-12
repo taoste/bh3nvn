@@ -7,6 +7,7 @@ categories:
 tags:
 - 无线电
 - Raspberry Pi
+- Flight
 ---
 
 闲置的树莓派1代+闲置的RTL-SDR组成了一个PiAware，获得FlightAware的企业账号，也申请了FlightFeeder。。。     
