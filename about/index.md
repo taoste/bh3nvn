@@ -14,5 +14,6 @@ E-Mail:
 [{{ site.email2 }}](mailto:{{ site.email2 }})  
 企鹅:    
 25139770
+点击链接加入群【Geek乐园】：http://jq.qq.com/?_wv=1027&k=VIqeak
 
 
