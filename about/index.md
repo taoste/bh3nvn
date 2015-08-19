@@ -15,6 +15,6 @@ E-Mail:
 企鹅:    
 25139770        
 群：485291289    
-点击链接加入群【Geek乐园】：http://jq.qq.com/?_wv=1027&k=VIqeak
+点击链接加入群[Geek乐园](http://jq.qq.com/?_wv=1027&k=VIqeak)
 
 
