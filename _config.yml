@@ -12,3 +12,4 @@ github:
 weibo: 
 pygments: true
 paginate: 36
+markdown:kramdown
