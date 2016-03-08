@@ -1,9 +1,9 @@
-﻿markdown: rdiscount
+﻿markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://xwlogic.github.io
+url: http://bh3nvn.github.io
 name: NVN的个人站点
 author: xwlogic
-email1: xwlogic@gmail.com
+email1: 25139770@qq.com
 email2: bh3nvn36@gmail.com
 duoshuo: xwlogic
 disqus: 
@@ -12,4 +12,3 @@ github:
 weibo: 
 pygments: true
 paginate: 36
-markdown:kramdown
