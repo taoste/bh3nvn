@@ -15,26 +15,24 @@
 <!--  <body> 
 -->
   
-  <body onLoad="setInterval(setTimeSpan,1000);">
-    <div id="container">
-      <div id="main" role="main">
-        <header>
-        <div class="buttons">
-          <a href="/" class="ss-icon" title="Home">首页</a>
-          <a href="/categories" class="ss-icon" title="List" >分类</a>
-          <a href="/tags" class="ss-icon" title="Tags" >标签</a>
-          <!--a href="/links" class="ss-icon" title="Links" >链接</a-->
-          <a href="/guestbook" class="ss-icon" title="Chat" >留言</a>
-          <a href="/about" class="ss-icon" title="About" >关于</a>
-        </div>
-        <h1>{{ page.title }}</h1>
-        </header>
-         <hr>
-        <article class="content">
-        {{ content }}
-        </article>
+    <div id="main" role="main">
+      <header>
+      <div class="buttons">
+        <a href="/" class="ss-icon" title="Home">首页</a>
+        <a href="/categories" class="ss-icon" title="List" >分类</a>
+        <a href="/tags" class="ss-icon" title="Tags" >标签</a>
+        <!--a href="/links" class="ss-icon" title="Links" >链接</a-->
+        <a href="/guestbook" class="ss-icon" title="Chat" >留言</a>
+        <a href="/about" class="ss-icon" title="About" >关于</a>
       </div>
-   
+      <h1>{{ page.title }}</h1>
+      </header>
+      <hr>
+      <article class="content">
+      {{ content }}
+      </article>
+    </div>
+
     <footer>
     	<p><small>
     		Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> @ <a href="http://github.com/bh3nvn">GitHub</a>
@@ -44,7 +42,4 @@
          {% endif %}
        </small></p>
     </footer>
-
-    </div>
-  </body>
 </html>
