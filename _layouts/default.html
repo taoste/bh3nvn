@@ -14,32 +14,7 @@
   </head>
 <!--  <body> 
 -->
-  <script type="text/javascript">
-    function setTimeSpan(){
-            var date = new Date();
-            timeSpan.innerText=date.format('yyyy-MM-dd hh:mm:ss');
-    }
-    
-    Date.prototype.format = function(format)
-                {
-    var o =
-            {
-                "M+" : this.getMonth()+1, //month
-                "d+" : this.getDate(),    //day
-                "h+" : this.getHours(),   //hour
-                "m+" : this.getMinutes(), //minute
-                "s+" : this.getSeconds(), //second
-                "q+" : Math.floor((this.getMonth()+3)/3),  //quarter
-                "S" : this.getMilliseconds() //millisecond
-            }
-            if(/(y+)/.test(format))
-            format=format.replace(RegExp.$1,(this.getFullYear()+"").substr(4 - RegExp.$1.length));
-            for(var k in o)
-            if(new RegExp("("+ k +")").test(format))
-            format = format.replace(RegExp.$1,RegExp.$1.length==1 ? o[k] : ("00"+ o[k]).substr((""+ o[k]).length));
-            return format;
-                }
-  </script>
+  
   <body onLoad="setInterval(setTimeSpan,1000);">
     <div id="container">
       <div id="main" role="main">
@@ -67,8 +42,6 @@
          {% if site.cnzz %}
              | <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_{{ site.cnzz }}'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D{{ site.cnzz }}%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
          {% endif %}
-             <br/>
-              <span class="label label-info" id="timeSpan"></span>
        </small></p>
     </footer>
 
