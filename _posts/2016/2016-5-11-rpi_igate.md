@@ -13,7 +13,7 @@ tags:
 
 年前制作了BY3MA-10的APRS网关（iGate）。    
 
-![]http://i1328.photobucket.com/albums/w532/xwlogic/1_zpsxleldtw3.jpg)
+![](http://i1328.photobucket.com/albums/w532/xwlogic/1_zpsxleldtw3.jpg)
   
 先挖好坑，有空再填~
 
