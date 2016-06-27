@@ -4,7 +4,15 @@ layout: page
 comments: no
 ---
 **I learn what I need to create what I want**
-<iframe align="top" frameborder="0" height="350" name="iframe" scrolling="yes" src="http://www.clublog.org/last10_iframe.php?call=bh3nvn" width="450"></iframe>
+<!-- HRDLOG.net script start -->
+<div id="hrdlog">www.hrdlog.net</div>
+<script type="text/javascript" language="javascript" src="http://www.hrdlog.net/hrdlog.js"></script>
+<script type="text/javascript" language="javascript">
+var ohrdlog = new HrdLog('BH3NVN');
+ohrdlog.LoadByCallsign();
+ohrdlog.LoadLastQso(10);
+ohrdlog.EnableQsoMap(800);
+</script>
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 
 ---
