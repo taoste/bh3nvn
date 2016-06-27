@@ -11,8 +11,10 @@ comments: no
 var ohrdlog = new HrdLog('BH3NVN');
 ohrdlog.LoadByCallsign();
 ohrdlog.LoadLastQso(10);
-ohrdlog.EnableQsoMap(800);
+ohrdlog.EnableQsoMap(1140);
+ohrdlog.DisableLinks();
 </script>
+<!-- HRDLOG.net script stop -->
 <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
 
 ---
