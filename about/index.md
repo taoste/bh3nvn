@@ -14,7 +14,6 @@ comments: no
 var ohrdlog = new HrdLog('BH3NVN');
 ohrdlog.LoadByCallsign();
 ohrdlog.LoadLastQso(10);
-ohrdlog.DisableLinks();
 </script>
 <!-- HRDLOG.net script stop -->
 ---
