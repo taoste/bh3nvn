@@ -3,8 +3,11 @@ title: 关于
 layout: page
 comments: no
 ---
+<center>
+<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php"></a>
+</center>
 <!-- HRDLOG.net script start -->
-<iframe src="https://www.hrdlog.net/hrdlogframe.aspx?user=BH3NVN&lastqso=10&qsomap=&options=search;" width="100%" height="500" scrolling="auto"></iframe>
+<iframe src="https://www.hrdlog.net/hrdlogframe.aspx?user=BH3NVN&lastqso=30&qsomap=&options=search;" width="100%" height="500" scrolling="auto"></iframe>
 <!-- HRDLOG.net script stop -->
 ---
 **联系方式**    
