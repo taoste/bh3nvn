@@ -4,13 +4,7 @@ layout: page
 comments: no
 ---
 <!-- HRDLOG.net script start -->
-<div id="hrdlog">www.hrdlog.net</div>
-<script type="text/javascript" language="javascript" src="http://www.hrdlog.net/hrdlog.js"></script>
-<script type="text/javascript" language="javascript">
-var ohrdlog = new HrdLog('BH3NVN');
-ohrdlog.LoadByCallsign();
-ohrdlog.LoadLastQso(10);
-</script>
+<iframe src="https://www.hrdlog.net/hrdlogframe.aspx?user=BH3NVN&lastqso=10&qsomap=&options=search;" width="100%" height="500" scrolling="auto"></iframe>
 <!-- HRDLOG.net script stop -->
 ---
 **联系方式**    
