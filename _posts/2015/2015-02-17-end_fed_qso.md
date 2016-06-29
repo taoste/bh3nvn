@@ -11,9 +11,9 @@ tags:
 
 过年了，回乡下老家，大年二十九，下午没事，趁着酒劲儿，架起了半波端馈天线，阵子长度大约十米，两根五米地网。匹配盒是之前测试好的，装好后，调试很容易，一分钟搞定。
   
-![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg1_zps8d3bd902.jpg)
-![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg1_zps2c57fc3d.jpg)
-![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg2_zps946519d0.jpg)
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2015-02-17-01.jpg)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2015-02-17-02.jpg)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2015-02-17-03.jpg)    
 
 16：45接上FT817，马上在14275通到哈尔滨BG2CQO，收59发58，对方八木100瓦，IC756proii。
 
@@ -31,8 +31,8 @@ tags:
 
 晚上关机睡觉前，想看看天线参数有无变化，突然发现，在40米也谐振！
 
-![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg5_zps40fafe45.jpg)
-![](http://i1328.photobucket.com/albums/w532/xwlogic/imagejpg4_zpsf76655fe.jpg)
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2015-02-17-04.jpg)     
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2015-02-17-05.jpg)     
 
 看来是地网位置好，加之环境影响，恰好成了40米波段水平架设的1/4波长GP天线了！明天继续……
 
