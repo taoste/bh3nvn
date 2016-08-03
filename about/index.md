@@ -3,7 +3,7 @@ title: 关于
 layout: page
 comments: no
 ---
-<p><a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><div align=left><img src="http://www.hamqsl.com/solar101vhf.php" /></a></div></p>
+<p><a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhf.php" align="left" /></a></p>
 <hr />
 <p><iframe align="top" frameborder="0" height="100" name="iframe" scrolling="yes" src="https://secure.clublog.org/stats_iframe.php?call=bh3nvn" width="450"></iframe></p>
 <hr />
