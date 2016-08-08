@@ -39,10 +39,10 @@ tags:
 
     dpkg-reconfigure tzdata
 
-![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014-08-30-01.jpg)    
-![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014-08-30-02.jpg)    
-![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014-08-30-03.jpg)    
-![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014-08-30-04.jpg)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014/2014-08-30-01.jpg)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014/2014-08-30-02.jpg)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014/2014-08-30-03.jpg)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2014/2014-08-30-04.jpg)    
 
 
 
