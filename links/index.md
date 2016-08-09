@@ -25,7 +25,9 @@ comments: yes
 [W3PM Project Page](http://www.knology.net/~gmarcus/)    
 [KiwiSDR](http://www.jks.com/KiwiSDR/index.html)    
 [AA5TB](http://www.aa5tb.com/index.html)    
-[Homeberw Projects and Online Caculators from Changpuak](http://www.changpuak.ch/electronics/index.php)
+[Homeberw Projects and Online Caculators from Changpuak](http://www.changpuak.ch/electronics/index.php)    
+[changing the rigol DS1052E to DS1102E](http://www.eevblog.com/forum/blog/changing-the-rigol-ds1052e-to-ds1102e-using-usb-the-dummy-guide/1775/)    
+
 
 
 
