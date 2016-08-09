@@ -24,7 +24,7 @@ comments: yes
 [W3PM Project Page](http://www.knology.net/~gmarcus/)    
 [KiwiSDR](http://www.jks.com/KiwiSDR/index.html)    
 [AA5TB](http://www.aa5tb.com/index.html)    
-[changpuak](http://www.changpuak.ch/electronics/index.php)
+[Homeberw Projects and Online Caculators](http://www.changpuak.ch/electronics/index.php)
 
 
 
