@@ -1,6 +1,11 @@
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
+
+
+---xwLogic RePowered @20140122---
+---http://xwlogic.github.io/---
+
 */
 
 @font-face{font-family:'MuseoSans';src:url('../fonts/museosans_300-webfont.eot');src:url('../fonts/museosans_300-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museosans_300-webfont.woff') format('woff'),url('../fonts/museosans_300-webfont.ttf') format('truetype'),url('../fonts/museosans_300-webfont.svg#MuseoSans300Regular') format('svg');font-weight:normal;font-style:normal}
@@ -15,7 +20,7 @@
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
+del, dfn, em, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
 dl, dt, dd, ol, ul, li,
@@ -26,7 +31,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
-	padding: 0;
+	padding: 2px;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
@@ -64,8 +69,6 @@ body{
     font-family:MuseoSans,Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode","Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei",Verdana,sans-serif;
     color:#000000;
     background-color:#ffffff;
-    word-wrap: break-word; 
-    word-break: normal; 
 }
 
 body>div {
@@ -84,10 +87,10 @@ h1 {
     font-size: 28px;
     line-height: 28px;
     margin: 0 0 28px 0;
-	background-color: #000;
-	color: #fff;
-	display: inline-block;
-	padding: 12px;
+    background-color: #FFF;
+    color: #000;
+    display: inline-block;
+    padding: 12px;
 }
 h2 {
     font-size: 26px;
@@ -145,18 +148,18 @@ hr {
     margin: 0 0 22px 0;
 }
 a {
-    color: #EE0000;
+    color: #DD0000;
+    text-decoration:none;
 }
-a:visited {
-    color: #B22222;
-}
+
 a.ss-icon {
-	font-size: 20px;
-	padding: 0 0.25em;
-	color: #ccc;
+	font-size: 18px;
+	padding: 0 0.1em;
+	color: #f50;
 }
 a:hover {
-    color: #EE0000;
+    color: #333333;
+    text-decoration:none;
 }
 em {
     font-style: italic;
@@ -186,7 +189,7 @@ dl .meta {
 
 .buttons{
     float: right;
-    margin-top: 14px;
+    margin-top: 23px;
 }
 
 .listing-item,.listing-seperator{list-style-type:none;}
@@ -225,6 +228,7 @@ background: #83BF73;
 
 
 footer{
+text-align:center;
 display:block;
 border-top: 1px dashed #CCC;
 }
@@ -237,8 +241,8 @@ color: #999;
 footer a {
 margin: 1px;
 border: 1px solid rgba(1,1,1,0);
-border-bottom: 1px dashed #BBB;
-color: #B9221F;
+border-bottom: 1px dashed #FFF;
+color: #999;
 text-decoration: none;
 }
 
@@ -251,3 +255,23 @@ footer a:hover {
     -webkit-box-shadow: rgba(0,0,0,1.0) 0px 0px 2px,rgba(255,255,255,0.15) 0px 1px 1px inset;
     text-decoration: none;
 }
+
+
+.pageNav{font-weight:bold;font-size:17px;}
+.pageNavInvalid{font-weight:bold;font-size:17px;color:#D0D0D0;}
+.label {
+font-size:11.25px;
+font-weight:700;
+color:#fff;
+text-transform:uppercase;
+background-color:#999;
+-webkit-border-radius:3px;
+-moz-border-radius:3px;
+border-radius:3px;
+padding:1px 3px 2px;
+}
+.label-info {
+background-color:#f50;
+}
+
+.content img{max-width:640px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
