@@ -274,4 +274,10 @@ padding:1px 3px 2px;
 background-color:#f50;
 }
 
-.content img{max-width:640px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
+.content img{
+max-width:800px;
+display:block;
+margin:4px auto;
+-webkit-box-shadow:#999 1px 1px 4px;
+-moz-box-shadow:#999 1px 1px 4px;
+box-shadow:#999 1px 1px 4px;}
