@@ -3,8 +3,8 @@
    License: none (public domain)
 
 
----xwLogic RePowered @20140122---
----http://xwlogic.github.io/---
+---BH3NVN RePowered @20160810---
+---http://bh3nvn.github.io/---
 
 */
 
@@ -275,7 +275,7 @@ background-color:#f50;
 }
 
 .content img{
-max-width:800px;
+max-width:auto;
 display:block;
 margin:4px auto;
 -webkit-box-shadow:#999 1px 1px 4px;
