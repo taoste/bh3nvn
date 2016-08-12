@@ -29,7 +29,7 @@ There is, of course, no free lunch here. Here are some disadvantages of the Z-ma
 制作完成之后的样子，三围80x60x35mm。左边的电容是TUNING，右边是COUPLING，左上角钮子开关打到上边是平衡输出，打到下边是不平衡输出，右上角的指示灯在调谐匹配时候最亮。    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-02.jpg)     		
 
-接上Ultimate3 0.5瓦发射，天调输出接10米长线，输出端波形如下图：    
+接上Ultimate3 0.5瓦发射，天调输出接10米长线，输出如下：    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-03.jpg)     		
 
 经过对比，比端馈的LC匹配天调效率高很多。
