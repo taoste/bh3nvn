@@ -25,11 +25,13 @@ There is, of course, no free lunch here. Here are some disadvantages of the Z-ma
 
 按照下图，目标是QRP，体积越小越好，电容使用收音机的270p双联可调电容，磁环使用T50-2，加上PD7MAA的简单调谐指示器。    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-01.jpg)     	
+
 制作完成之后的样子，三围80x60x35mm。    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-02.jpg)     		
+
 接上Ultimate3 0.5瓦发射，天调输出接10米长线，输出端波形如下图：    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-03.jpg)     		
 
-经过对比，效率比端馈的LC匹配天调效率高。
+经过对比，效率比端馈的LC匹配天调高。
 
 
