@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 袖珍Z-Match天调（天线调谐器）
+title: QRP Z-Match ATU
 date: 2016-08-12 12:36:36 +0800
 categories:
 - 日志
@@ -9,7 +9,7 @@ tags:
 - DIY
 ---
 
-Z-Macth天调在国外已经流行很久了，国内很少有人试制，最近看了很多Z-Match天调的文章，计划仿制一个。    
+Z-Macth天调在国外已经流行很久了，国内很少看到有人使用，最近看了很多Z-Match天调的文章，计划仿制一个。    
 Z-Match的特点如下（From WB3GCK.）：    
 
 Why the popularity? Here are some advantages that the Z-match design offers:    
@@ -32,6 +32,6 @@ There is, of course, no free lunch here. Here are some disadvantages of the Z-ma
 接上Ultimate3 0.5瓦发射，天调输出接10米长线，输出端波形如下图：    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-03.jpg)     		
 
-经过对比，比端馈的LC匹配天调效率高。
+经过对比，比端馈的LC匹配天调效率高很多。
 
 
