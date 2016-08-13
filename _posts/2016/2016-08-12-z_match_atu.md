@@ -23,7 +23,7 @@ There is, of course, no free lunch here. Here are some disadvantages of the Z-ma
 ●Tuning is usually very narrow and can be a bit touchy sometimes to tune up.    
 ●The range of impedances that can be matched is not as great as in other designs, such as the "T" configuration.    
 
-按照下图，目标是QRP，体积越小越好，电容使用收音机的270p双联可调电容，磁环使用T50-2，加上PD7MAA的简单调谐指示器。    
+按照下图，目标是QRP，体积越小越好，电容使用收音机的270p双联可调电容，原来大都使用T130-2或者T130-6磁环，我手里只有T50-6，所以重新计算了匝数，输出端加上PD7MAA的简单调谐指示器。    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-01.jpg)     	
 
 制作完成之后的样子，三围80x60x35mm。左边的电容是TUNING，右边是COUPLING，左上角钮子开关打到上边是平衡输出，打到下边是不平衡输出，右上角的指示灯在调谐匹配时候最亮。    
