@@ -22,7 +22,7 @@ Advantages of the Z-Match
 Disadvantage      
 ●Tuning is usually very narrow and can be a bit touchy sometimes to tune up.    
 
-按照下图，目标是QRP，体积越小越好，电容使用收音机的270p双联可调电容，原来大都使用T130-2或者T130-6磁环，我手里只有T50-6，所以重新计算了匝数，输出端加上PD7MAA的简单调谐指示器。最大功率应该能到10瓦或者15瓦。    
+按照下图，目标是QRP，体积越小越好，电容使用收音机的270p双联可调电容，原来大都使用T130-2或者T130-6磁环，我手里只有T50-6，所以重新计算了匝数。最大功率应该能到10瓦或者15瓦。    
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-01.jpg)     	
 
 制作完成之后的样子，三围80x60x35mm。左边的电容是LOAD，右边是TUNE。左边的钮子开关用于调谐，打到右边调谐两个电容至指示灯刚好熄灭，此时负载驻波最小，调谐完成后打到左边正常工作。右边的钮子开关打到右边是平衡输出，打到左边是不平衡输出。    ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-00.jpg)     		  
