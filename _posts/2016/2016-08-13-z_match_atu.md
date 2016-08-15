@@ -27,7 +27,7 @@ Disadvantage
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-01.jpg)     	
 
 W6JJZ建议尽量使-6的磁环，网上图纸大概分三种，一种是W6JJZ最初的版本，还有两种是C2都接地但是抽头比例不同。我选择了W6JJZ的版本，其他两个版本也试验过，区别不大。    
-![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-01.jpg)     
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-04.jpg)     
 
 制作完成之后的样子，三围80x60x35mm。左边的电容是LOAD，右边是TUNE。左边的钮子开关用于调谐，打到右边调谐两个电容至指示灯刚好熄灭，此时负载驻波最小，调谐完成后打到左边正常工作。右边的钮子开关打到右边是平衡输出，打到左边是不平衡输出。    ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2016/2016-08-12-00.jpg)     		  
 如果调谐TUNE电容能有两个谐振点，那么选择电容较小的一个，效率会比较高。    
