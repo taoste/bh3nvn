@@ -1,7 +1,10 @@
 {% if site.duoshuo %}
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="{{ page.thread }}" data-title="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}"></div>
+<!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"bh3nvn"};
+var duoshuoQuery = {short_name:"{{ site.duoshuo }}"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -13,6 +16,7 @@ var duoshuoQuery = {short_name:"bh3nvn"};
 	</script>
 <!-- 多说公共JS代码 end -->
 {% endif %}
+
 
 {% if site.disqus %}
     <div id="disqus_thread"></div>
