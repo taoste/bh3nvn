@@ -53,9 +53,6 @@ tags:
 6. 下面就用遵循Markdown的语法写blog吧，放到_posts文件夹下push到github就行了，github原生支持jekyll哦~
 
 
-[参考博文][http://hahaya.github.io/2013/06/26/build-blog-on-github.html](link-block-spechttp://hahaya.github.io/2013/06/26/build-blog-on-github.html)
-
-
 
   
   
