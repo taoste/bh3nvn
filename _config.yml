@@ -1,11 +1,10 @@
-﻿markdown: kramdown
+markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://bh3nvn.github.io
 name: NVN的个人站点
 author: BH3NVN
 email1: 25139770@qq.com
 email2: bh3nvn36@gmail.com
-duoshuo: 
 disqus: xwlogic
 cnzz:  1257835304
 highlighter: rouge
