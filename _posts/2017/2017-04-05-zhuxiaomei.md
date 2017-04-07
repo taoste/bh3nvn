@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 朱晓玫：隐居在琴键上面（转）
+title:朱晓玫：隐居在琴键上面（转）
 date: 2017-04-05 11:36:36 +0800
 categories:
 - 随笔
