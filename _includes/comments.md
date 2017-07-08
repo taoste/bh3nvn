@@ -1,3 +1,5 @@
+<p>✈ Share your thoughts（由于使用Disqus，需要科(fan)学(qiang)上网）</p>
+
 <div id="disqus_thread"></div>
 <script>
 
