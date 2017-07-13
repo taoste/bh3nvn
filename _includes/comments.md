@@ -1,6 +1,4 @@
----
-
-    ✈ 站点的评论留言系统使用了Disqus，需要科(fan)学(qiang)上网。✈
+> ✈ 站点的评论留言系统使用了Disqus，需要科(fan)学(qiang)上网。✈
     
 <div id="disqus_thread"></div>
 
