@@ -6,7 +6,9 @@ comments: yes
 ### **项目** ###
 
 [My APRS WX Station](https://aprs.fi/info/a/BH3NVN-13)    
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2017/2017-08-26-01.jpg)     
 [My WSPR Beacon](http://wsprnet.org/drupal/wsprnet/spots)
+![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2017/2017-08-26-02.jpg)     
 
 ### **工具** ###
 
