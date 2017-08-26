@@ -3,6 +3,10 @@ title: 链接
 layout: page
 comments: yes
 ---
+### **项目** ###
+
+[My APRS WX Station](https://aprs.fi/info/a/BH3NVN-13)    
+[My WSPR Beacon](http://wsprnet.org/drupal/wsprnet/spots)
 
 ### **工具** ###
 
