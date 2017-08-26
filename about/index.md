@@ -3,6 +3,9 @@ title: 关于
 layout: page
 comments: no
 ---
+[My APRS WX Station](https://aprs.fi/info/a/BH3NVN-13)    
+[My WSPR Beacon](http://wsprnet.org/drupal/wsprnet/spots)    
+---
 <p><iframe align="top" frameborder="0" height="100" name="iframe" scrolling="yes" src="https://secure.clublog.org/stats_iframe.php?call=bh3nvn"  width="450"></iframe></p>
 ---
 **联系方式**    
