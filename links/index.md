@@ -16,7 +16,7 @@ comments: yes
 
 [Radio, Electronics and Computing Projects by Hans Summers](http://www.hanssummers.com/)    
 [PD7MAA HOMEPAGE](http://pa-11019.blogspot.com/)     
-[McHF-GitHub by DF8OE](http://df8oe.github.io/mchf-github/)   
+[McHF-GitHub by DF8OE](http://df8oe.github.io/UHSDR/)   
 [AVR Transistortester](http://www.mikrocontroller.net/articles/AVR_Transistortester)    
 [YO3DAC - VA3IUL ](http://www.qsl.net/va3iul/)    
 [K3NG](https://blog.radioartisan.com/)    
@@ -26,7 +26,6 @@ comments: yes
 [KiwiSDR](http://www.jks.com/KiwiSDR/index.html)    
 [AA5TB](http://www.aa5tb.com/index.html)    
 [Homeberw Projects and Online Caculators from Changpuak](http://www.changpuak.ch/electronics/index.php)    
-[changing the rigol DS1052E to DS1102E](http://www.eevblog.com/forum/blog/changing-the-rigol-ds1052e-to-ds1102e-using-usb-the-dummy-guide/1775/)    
 
 
 
