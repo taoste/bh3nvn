@@ -73,9 +73,9 @@ config.py          | DOMAIN      | 你申请的应用的域名        |
 # Google云端Shell部署步骤
   复制下面的代码，粘贴到 Google 云端 Shell（如下图所示），回车执行
   
-    rm -f uploader.sh* && \    
-    wget https://raw.githubusercontent.com/bh3nvn/KindleEar-Uploader/master/uploader.sh && \    
-    chmod +x uploader.sh && \    
+    rm -f uploader.sh*    
+    wget https://raw.githubusercontent.com/bh3nvn/KindleEar-Uploader/master/uploader.sh      
+    chmod +x uploader.sh    
     ./uploader.sh    
     
   注意，上面的代码只需要执行一次即可，如果想要重新上传或要更新代码，只需要直接运行 最后一行uploader.sh 这个 Shell 文件即可。
