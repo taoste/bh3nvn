@@ -70,11 +70,11 @@ config.py          | DOMAIN      | 你申请的应用的域名        |
 3. 将KindleEar目录放到Uploader目录下，双击uploader.bat即开始上传，根据提示输入你的相关信息即可，在第一次成功部署之后，使用uploader再次升级KindleEar则不需要再次输入。  
 **此uploader仅适用于Windows系统。**
 
-# KindleFere部署步骤
+# Google云端Shell部署步骤
   复制下面的代码，粘贴到 Google 云端 Shell（如下图所示），回车执行
   
     rm -f uploader.sh* && \    
-    wget https://raw.githubusercontent.com/kindlefere/KindleEar-Uploader/master/uploader.sh && \    
+    wget https://raw.githubusercontent.com/bh3nvn/KindleEar-Uploader/master/uploader.sh && \    
     chmod +x uploader.sh && \    
     ./uploader.sh    
     
