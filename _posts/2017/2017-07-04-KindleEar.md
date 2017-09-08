@@ -29,7 +29,7 @@ tags:
 [原作者的Gitbub](https://github.com/cdhigh/KindleEar/blob/master/readme.md)
 
 # Google云端Shell部署步骤
-  打开Google云端Shell，执行以下命令：
+  打开Google云端Shell，执行以下命令：    
   
     rm -f uploader.sh*    
     wget https://raw.githubusercontent.com/bh3nvn/KindleEar-Uploader/master/uploader.sh      
