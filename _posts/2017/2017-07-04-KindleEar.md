@@ -9,7 +9,8 @@ tags:
 - 读书
 ---
 
-# 简介
+**简介**    
+
 这是一个运行在Google App Engine(GAE)上的Kindle个人推送服务应用，生成排版精美的杂志模式mobi/epub格式自动每天推送至您的Kindle或其他邮箱。
 
 ![](https://github.com/bh3nvn/bh3nvn.github.io/raw/master/image/2017/2017-07-04-01.png)
@@ -24,11 +25,12 @@ tags:
 * 强大而且方便的邮件中转服务
 * 和Evernote/Pocket/Instapaper等系统的集成
 
-# 原作者的部署说明
+**原作者的部署说明**    
 
 [原作者的Gitbub](https://github.com/cdhigh/KindleEar/blob/master/readme.md)
 
-# Google云端Shell部署步骤
+**Google云端Shell部署步骤**    
+
   打开Google云端Shell，执行以下命令：    
 ```
     rm -f uploader.sh*    
