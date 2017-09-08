@@ -33,9 +33,9 @@ tags:
 
   打开Google云端Shell(需要搭梯子)，执行以下命令：    
 ```
-    rm -f uploader.sh*    
-    wget https://raw.githubusercontent.com/bh3nvn/KindleEar-Uploader/master/uploader.sh      
-    chmod +x uploader.sh    
-    ./uploader.sh    
+rm -f uploader.sh*
+wget https://raw.githubusercontent.com/bh3nvn/KindleEar-Uploader/master/uploader.sh
+chmod +x uploader.sh
+./uploader.sh
 ```
   注意，上面的代码只需要执行一次即可，如果想要重新上传或要更新代码，只需要直接运行最后一行uploader.sh 这个 Shell 文件即可。
