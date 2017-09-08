@@ -24,7 +24,9 @@ tags:
 * 强大而且方便的邮件中转服务
 * 和Evernote/Pocket/Instapaper等系统的集成
 
-# 原作者的部署说明[https://github.com/cdhigh/KindleEar/blob/master/readme.md](https://github.com/cdhigh/KindleEar/blob/master/readme.md)
+# 原作者的部署说明
+
+[原作者的Gitbub](https://github.com/cdhigh/KindleEar/blob/master/readme.md)
 
 # Google云端Shell部署步骤
   打开Google云端Shell，执行以下命令：
